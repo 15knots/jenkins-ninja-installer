@@ -6,4 +6,4 @@ automatically selected. Ninja is available for Linux, Mac OS and Windows.
 
 Once installed, the `PATH` is set appropriately, so that the `ninja` command is available during a build.
 
-https://wiki.jenkins-ci.org/display/JENKINS/Ninja+Plugin
+## NOTE: This plugin is experimental and dormant
